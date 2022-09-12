@@ -50,9 +50,9 @@
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
-    <img align="left" width=56% src="https://activity-graph.herokuapp.com/graph?username=ambueno&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&" width="70%"/>
+    <img align="left" width=57% src="https://activity-graph.herokuapp.com/graph?username=ambueno&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&" width="70%"/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width=36%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambueno&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img align="right" width=37%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambueno&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </a>
 </p>
 
