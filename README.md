@@ -72,7 +72,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ambueno&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## Spotify Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j9ty1i7p7nhtgfg4zh3tff92g&cover_image=false&theme=novatorem&bar_color=00ffd5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=j9ty1i7p7nhtgfg4zh3tff92g&redirect=true) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j9ty1i7p7nhtgfg4zh3tff92g&cover_image=false&theme=natemoo-re&bar_color=00ffd5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=j9ty1i7p7nhtgfg4zh3tff92g&redirect=true)
 
 ## Connect with me || buy me a coffee
 <div align="center">
