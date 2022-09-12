@@ -6,7 +6,7 @@
 
 <h3 align="center">Hi, I'm Amanda, Systems Development Student & Software Developer from Brazil</h3>
 
-<hr>
+<br>
 <h2 align="center">Languages, Frameworks & Tools</h2>
 <br>
 <p align="center">
@@ -28,7 +28,8 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
 </p>
-<hr>
+
+<br>
 
 <h2 align="center">GitHub Stats</h2>
 <br>
@@ -47,8 +48,6 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=ambueno&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&" width="100%"/>
 </p>
-
-<hr>
 
 <!--
 ## My Skill Set  
@@ -113,14 +112,7 @@
 </td></tr></table>  
 
 <br/>  
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ambueno&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ambueno&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ambueno&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)-->
-
-## Spotify Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j9ty1i7p7nhtgfg4zh3tff92g&cover_image=false&theme=natemoo-re&bar_color=00ffd5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=j9ty1i7p7nhtgfg4zh3tff92g&redirect=true)
+-->
 
 ## Connect with me || buy me a coffee
 <div align="center">
