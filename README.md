@@ -82,7 +82,9 @@
 <a href="https://linkedin.com/in/-ambueno" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<br>
- <br>
+<a href = "mailto:amandabuenocampos@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<br><br>
 <p><a href="https://www.buymeacoffee.com/amandabueno"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amandabueno" /></a></p><br><br>
 </div>  
