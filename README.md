@@ -67,9 +67,9 @@
 <br/>  
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ambueno&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ambueno&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ambueno&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ambueno&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ambueno&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Spotify Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j9ty1i7p7nhtgfg4zh3tff92g&cover_image=false&theme=natemoo-re&bar_color=00ffd5&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=j9ty1i7p7nhtgfg4zh3tff92g&redirect=true)
