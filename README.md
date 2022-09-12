@@ -3,10 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Amanda+Bueno,;Systems+Development+Student+and;Software+Developer....;Glad+to+meet+you!:)&center=true&size=23">
   </a>
 </h1>
-
-<h3 align="center">Hi, I'm Amanda, Systems Development Student & Software Developer from Brazil</h3>
-
-<br>
+<div align="center">
+<a href="https://github.com/ambueno" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/-ambueno" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href = "mailto:amandabuenocampos@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<br><br>
 <h2 align="center">Languages, Frameworks & Tools</h2>
 <br>
 <p align="center">
@@ -112,19 +119,7 @@
 </td></tr></table>  
 
 <br/>  
--->
-
-## Connect with me || buy me a coffee
-<div align="center">
-<a href="https://github.com/ambueno" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/-ambueno" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href = "mailto:amandabuenocampos@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<br><br>
+<br>
 <p><a href="https://www.buymeacoffee.com/amandabueno"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amandabueno" /></a></p><br><br>
 </div>  
+-->
