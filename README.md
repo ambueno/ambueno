@@ -62,7 +62,7 @@
       <img align="left" width=33% src="https://github-readme-streak-stats.herokuapp.com/?user=ambueno&theme=react&border=61dafb&hide_border=true&include_all_commits=true&count_private=true&" alt="ambueno" />
     </a>
      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=28% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambueno&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=compact&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&" />
+      <img width=28% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambueno&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=compact&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&hide=ShaderLab,HLSL,html" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=33% src="https://github-readme-stats.vercel.app/api?username=ambueno&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&" />
