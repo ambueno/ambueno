@@ -68,6 +68,4 @@
       <img align="right" width=33% src="https://github-readme-stats.vercel.app/api?username=ambueno&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&" />
     </a>
   </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ambueno&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&" width="100%"/>
 </p>
